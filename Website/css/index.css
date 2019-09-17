@@ -68,6 +68,7 @@ img {
     font-variant: normal;
     text-transform: none;
     }
+
 h4 {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   font-size: 25px;
@@ -79,4 +80,17 @@ h4 {
   font-style: normal;
   font-variant: normal;
   text-transform: none;
+}
+
+.footer{
+  color:black;
+  font-size:20px;
+  font: bold;
+  text-align: center;
+  position:fixed;
+  bottom:0;
+  left:50%;
+  margin-left:-200px;
+  width:400px;
+  height:10%;
 }
